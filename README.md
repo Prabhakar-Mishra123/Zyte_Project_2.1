@@ -1,5 +1,7 @@
 ***It is part of the assignment where I scraped through the website: books.toscrape.comm and completed the part of the project***
 
+  ***Deployed URL ON Zyte Dashboard: https://app.zyte.com/p/734219/1/1/items***
+
 It extracts the following fields from all the 1000 books on the website: books.toscrape.com.
 
 Fields to extract: book title, book price, book image URL, book details page URL
